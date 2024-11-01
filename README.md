@@ -1,5 +1,5 @@
-# zipcoeak-SNS
-📱[SNS App] 다양한 기능을 갖춘 소셜 네트워킹 웹사이트 프로젝트
+# james-SNS
+📱[SNS App] 내가 훔친 다양한 기능을 갖춘 소셜 네트워킹 웹사이트 프로젝트
 ### Introduce Moodi
 
 내 감정을 이미지로 소통하는 모두의 감정 본부 SNS
